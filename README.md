@@ -132,8 +132,8 @@ Development of predictive models for:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/alphacare-insurance-analytics.git
-cd alphacare-insurance-analytics
+git clone https://github.com//GrimVad3r/End-to-End_Insurance_Risk_Analytics-and-Predictive_Modeling-Week-3.git
+cd End-to-End_Insurance_Risk_Analytics-and-Predictive_Modeling-Week-3
 ```
 
 2. **Create virtual environment:**
